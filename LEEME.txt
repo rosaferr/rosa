@@ -1,0 +1,10 @@
+CÓMO PUBLICAR TU VÍDEO
+
+1. Sube index.html y video.mp4 a un servicio de alojamiento web.
+2. Ese servicio te dará una dirección web (URL).
+3. Usa esa URL para crear tu código QR.
+4. Al escanearlo, se abrirá directamente esta página con el reproductor.
+
+IMPORTANTE:
+- No cambies el nombre de video.mp4.
+- Los dos archivos deben estar en la misma carpeta.
